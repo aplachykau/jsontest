@@ -1,4 +1,5 @@
-[
+{
+  "posts": [
   {
     "name": {
       "first": "Acosta",
@@ -119,4 +120,8 @@
     "company": "GEEKNET",
     "phone": "+1 (999) 473-3441"
   }
-]
+ ],
+  "profile": {
+    "name": "typicode"
+  }
+}
